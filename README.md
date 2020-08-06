@@ -3,9 +3,14 @@
 ## I'm a FullStack Developer!
 - 🔭 I’m currently working on Something Cool.
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me: sudhir9297@gmail.com
 - ⚡ Fun fact: I love to draw and play guitar.
+- 📫 Reach me Directly on: sudhir9297@gmail.com
 
+### Or Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
 ### Languages and Tools I use:
 
@@ -27,3 +32,7 @@
 ---
 
 [![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=sudhir9297&hide=contribs,prs?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[twitter]: https://twitter.com/Sudhir9297
+[instagram]: https://www.instagram.com/_seeon/
+
