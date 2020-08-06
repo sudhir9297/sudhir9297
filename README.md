@@ -29,10 +29,26 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir9297&layout=compact)](https://github.com/sudhir9297/SMovie)
----
-[![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=sudhir9297&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir9297&layout=compact&theme=radical)](https://github.com/sudhir9297/SMovie)
 
+---
+
+[![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=sudhir9297&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
+ 
+<a href="https://github.com/sudhir9297/Vastr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudhir9297&repo=Vastr&theme=radical" />
+<a href="https://github.com/sudhir9297/Todo-app">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudhir9297&repo=Todo-app&theme=radical" />
+</a>
+<a href="https://github.com/sudhir9297/Smovie">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudhir9297&repo=Smovie&theme=radical" />
+</a>
+  <a href="https://github.com/sudhir9297/Envision">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudhir9297&repo=Envision&theme=radical" />
+</a>
+  
 [twitter]: https://twitter.com/Sudhir9297
 [instagram]: https://www.instagram.com/_seeon/
 
