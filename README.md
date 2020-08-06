@@ -1,5 +1,12 @@
 ### Hi there, I'm Sudhir . 👋
 
+## I'm a FullStack Developer!
+- 🔭 I’m currently working on Something Cool.
+- 🌱 I’m currently learning everything 🤣
+- 📫 How to reach me: sudhir9297@gmail.com
+- ⚡ Fun fact: I love to draw and play guitar.
+
+
 ### Languages and Tools I use:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -16,3 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+
+---
+
+[![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=sudhir9297&hide=contribs,prs?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
