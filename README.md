@@ -30,14 +30,7 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir9297&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudhir9297&repo=Vastr&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudhir9297&repo=Smovie&theme=radical" />
-</a>
 ---
-
 [![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=sudhir9297&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Sudhir9297
