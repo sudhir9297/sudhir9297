@@ -1,6 +1,6 @@
-### Hi there, I'm Sudhir . 👋
+## Hi there, I'm Sudhir . 👋
 
-## I'm a FullStack Developer!
+### I'm a FullStack Developer!
 - 🔭 I’m currently working on Something Cool.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play guitar.
