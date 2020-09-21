@@ -1,5 +1,4 @@
 ## Hi there, I'm Sudhir . 👋
-![35391012](https://user-images.githubusercontent.com/19578447/93734795-5719ef00-fbf8-11ea-9139-60b46c0fbcae.jpg)
 ### I'm a FullStack Developer!
 - 🔭 I’m currently working on Something Cool.
 - 🌱 I’m currently learning everything 🤣
