@@ -1,7 +1,6 @@
 
 ## Hi there, I'm Sudhir . 👋
-![cover 1454914 2400x600](https://user-images.githubusercontent.com/19578447/95685893-57fed900-0c18-11eb-8ee5-1ca1b3b8b26a.jpg)
-
+![cover 1454914 2400x600](https://user-images.githubusercontent.com/19578447/99064938-a8c57100-25cc-11eb-84c3-53189a127e89.jpg)
 
 ### I'm a FullStack Developer!
 - 🔭 I’m currently working on Something Cool.
