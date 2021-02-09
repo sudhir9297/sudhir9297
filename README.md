@@ -27,11 +27,7 @@
 <br />
 
 ---
-
-<p align="left">
- <img  src="https://github-readme-stats.vercel.app/api?username=sudhir9297&hide=contribs,prs&count_private=true&show_icons=true" width="480">
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir9297&layout=compact" width="300">
-</p> 
 
 [twitter]: https://twitter.com/Sudhir9297
 [instagram]: https://www.instagram.com/_seeon/
