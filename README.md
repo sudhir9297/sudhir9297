@@ -4,7 +4,7 @@
 ### I'm a FullStack Developer!
 - 🔭 I’m currently working on Something Cool.
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to Read Books and Gaming.
+- ⚡ I love to Read Books and Gaming.
 - 📫 Reach me: sudhir9297@gmail.com
 
 ### Languages and Tools I use:
