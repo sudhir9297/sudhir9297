@@ -19,7 +19,7 @@
 
 > Building immersive browser experiences, interactive 3D systems, and AI-powered web tools.
 
-## Studio Projects
+## Current Projects
 
 - 🧠 **[Scraper](https://scraper-exp.vercel.app/)** - AI-powered web data extraction platform 
 - 🏠 **[Decordiva](https://decordiva.netlify.app/)** - Real-time 3D Bathroom styling experience
