@@ -20,16 +20,15 @@
 > Building immersive browser experiences, interactive 3D systems, and AI-powered web tools.
 
 ## Current Projects
-
-- 🧠 **[Scraper](https://scraper-exp.vercel.app/)** - AI-powered web data extraction platform 
 - 🏠 **[Decordiva](https://decordiva.netlify.app/)** - Real-time 3D Bathroom styling experience
 - 🧊 **[Aakaar](https://aakaar.vercel.app/)** - Interactive 3D product visualization platform
 - 👟 **[MyShoeStylist](https://myshoestylist.netlify.app/)** - 3D footwear customization interface
 
+## Sandbox Projects
+- 🧠 **[Scraper](https://scraper-exp.vercel.app/)** - AI-powered web data extraction platform 
+- 🗃 **[Vault Cube](https://github.com/sudhir9297/vault-cube)** - Storage-focused web app with modern auth and backend-driven file operations
 
 ## Experimental / Archive Projects
-
-- 🗃 **[Vault Cube](https://github.com/sudhir9297/vault-cube)** - Storage-focused web app with modern auth and backend-driven file operations
 - 🌐 **[Decoright-WebXR](https://github.com/sudhir9297/Decoright-Webxr)** - WebXR-ready immersive 3D decor experience in the browser
 - 📱 **[Decoright](https://github.com/sudhir9297/Decoright)** - Mobile 3D decor preview app built with React Native + Three.js
 - 🎬 **[Ruin Polygon Runway](https://github.com/sudhir9297/Ruin-polygon-runway)** - Stylized 3D environment exploring motion and composition
