@@ -20,6 +20,8 @@
 > Building immersive browser experiences, interactive 3D systems, and AI-powered web tools.
 
 ## Current Projects
+- 🏠 **[Isha Nitya](https://isha-nitya.itssudhir.com/)** - A Mobile Application for all Info related to Isha foundation
+- 🌆 **[Aakriti](https://aakriti-landing.itssudhir.com/)** - Manage 3D assets, materials, and scenes
 - 🏠 **[Decordiva](https://decordiva.netlify.app/)** - Real-time 3D Bathroom styling experience
 - 🧊 **[Aakaar](https://aakaar.vercel.app/)** - Interactive 3D product visualization platform
 - 👟 **[MyShoeStylist](https://myshoestylist.netlify.app/)** - 3D footwear customization interface
