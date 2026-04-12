@@ -22,9 +22,9 @@
 ## Current Projects
 - 🏠 **[Isha Nitya](https://isha-nitya.itssudhir.com/)** - A Mobile Application for all Info related to Isha foundation
 - 🌆 **[Aakriti](https://aakriti-landing.itssudhir.com/)** - Manage 3D assets, materials, and scenes
-- 🏠 **[Decordiva](https://decordiva.netlify.app/)** - Real-time 3D Bathroom styling experience
+- 🏠 **[Decordiva](https://decordiva.itssudhir.com/)** - Real-time 3D Bathroom styling experience
 - 🧊 **[Aakaar](https://aakaar.vercel.app/)** - Interactive 3D product visualization platform
-- 👟 **[MyShoeStylist](https://myshoestylist.netlify.app/)** - 3D footwear customization interface
+- 👟 **[MyShoeStylist](https://myshoestylist.itssudhir.com/)** - 3D footwear customization interface
 
 ## Sandbox Projects
 - 🧠 **[Scraper](https://scraper-exp.vercel.app/)** - AI-powered web data extraction platform 
